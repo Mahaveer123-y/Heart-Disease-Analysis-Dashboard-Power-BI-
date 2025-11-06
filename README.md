@@ -48,8 +48,9 @@ This project visualizes heart disease data using **Power BI**, providing insight
 - Lifestyle factors (smoking, diabetes, anaemia) impact patient outcomes  
 
 🔗 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kakde-57235b312/)  
-📧 kakdegaurav876@email.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mahaveer-yadav/)  
+📧 mahaveer.kr2011@gmail.com  
 
 
 ⭐ **If you like this project, don’t forget to star the repo!**
+
